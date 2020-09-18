@@ -1,4 +1,4 @@
-# I_m_Deepak0001.github.io
+# ImDeepak0001.github.io
 ## Credits
 * https://vincentgarreau.com/particles.js for Particles.js
 * https://freehtml5.co for Parts of CSS
